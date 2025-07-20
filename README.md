@@ -1,6 +1,6 @@
 
 
-# Voxtral AI Demo Local Interface
+# Voxtral AI Demo Interface 
 
 ![Voxtral Demo Image](./voxtral_demo_image.png)
 
@@ -10,7 +10,8 @@ Welcome to the **Voxtral AI Demo Interface**! This project provides a user-frien
 
 **Voxtral** is a state-of-the-art model developed to handle both **speech transcription** and **audio understanding** with remarkable accuracy and efficiency. The Voxtral models are optimized for **long-form context**, **multilingual capabilities**, and **natural language understanding** directly from audio. This demo interface lets you run the Voxtral model on powerful GPUs to evaluate its performance and see how it can be used for transcription and deeper analysis.
 
-I have tested Voxtral thoroughly, and based on my evaluation, I have created this app for wide usage. It meets the required performance and works efficiently under the recommended hardware setups.
+I have tested Voxtral thoroughly, and based on my evaluation, I have created this app for wide usage. It meets the required performance and works efficiently under the recommended hardware setups [![⭐](https://img.shields.io/github/stars/khalooei/voxtral-ai-demo-local-interface?style=social)](https://github.com/khalooei/Voxtral-AI-Demo-Local-Interface)
+.
 
 ### Features
 
@@ -20,15 +21,6 @@ I have tested Voxtral thoroughly, and based on my evaluation, I have created thi
 - **Built-in Q&A and Summarization**: Directly ask questions about the audio content or generate structured summaries without needing separate models.
 - **Function-Calling from Voice**: Trigger backend functions or API calls based on spoken user intents, turning voice interactions into actionable commands.
 - **Affordable and Open**: Voxtral bridges the gap between open-source ASR systems and expensive proprietary APIs, delivering production-ready speech understanding at a fraction of the cost.
-
-### Demo Screenshots
-
-Here are some screenshots of the **Voxtral AI Demo Interface** in action:
-  ![Model Selection](./imgs/multi-turn.png)
-
-  ![Transcription Task](./imgs/chat-text-only.png)
-
-  ![Multi-Audio + Text](./imgs/audio-text.png)
 
 ### Hardware Requirements
 As mentioned, I have tested Voxtral thoroughly, and based on my evaluation, I have created this app for wide usage. It meets the required performance and works efficiently under the recommended hardware setups.
@@ -85,11 +77,22 @@ As mentioned, I have tested Voxtral thoroughly, and based on my evaluation, I ha
 - **Multi-Turn Conversation**: Upload two audio files and provide prompts for a conversational interaction.
 - **Batch Processing**: Submit multiple audio and text inputs for bulk processing in JSON format.
 
-
 ### Support
 If you have any questions or need assistance, feel free to reach out to **Mohammad Khalooei** at **mkhalooei[at]gmail.com**,  **khalooei[at]aut.ac.ir** or **mohammad.khalooei[at]sharif.edu**.
 
 This demo is provided in collaboration with the **Mistral AI**.
+
+### Demo Screenshots
+Here are some screenshots of the **Voxtral AI Demo Interface** in action:
+  ![Model Selection](./imgs/multi-turn.png)
+
+  ![Transcription Task](./imgs/chat-text-only.png)
+
+  ![Multi-Audio + Text](./imgs/audio-text.png)
+
+### references
+- https://huggingface.co/mistralai/Voxtral-Mini-3B-2507
+- https://huggingface.co/mistralai/Voxtral-Small-24B-2507
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
