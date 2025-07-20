@@ -1,6 +1,6 @@
 
 
-# Voxtral AI Demo Interface
+# Voxtral AI Demo Local Interface
 
 ![Voxtral Demo Image](./voxtral_demo_image.png)
 
