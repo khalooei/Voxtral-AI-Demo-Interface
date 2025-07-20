@@ -90,7 +90,7 @@ Here are some screenshots of the **Voxtral AI Demo Interface** in action:
 
   ![Multi-Audio + Text](./imgs/audio-text.png)
 
-### references
+### References
 - https://huggingface.co/mistralai/Voxtral-Mini-3B-2507
 - https://huggingface.co/mistralai/Voxtral-Small-24B-2507
 
